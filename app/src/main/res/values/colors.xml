@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1976D2</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="colorAccent">#1976D2</color>
+    <color name="colorControlHighlight">#E3F2FD</color>
+    <color name="colorControlNormal">#64B5F6</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorNormalText">#000000</color>
+    <color name="colorTitle_Card">#747474</color>
+    <color name="colorBackground">#E8EAF6</color>
+</resources>
